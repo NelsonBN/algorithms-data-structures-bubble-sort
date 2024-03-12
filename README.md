@@ -4,8 +4,8 @@
 ## Characteristics
 
 - Time complexity:
-    - Best: O(n) -> With optimized implementation
-    - Average: O(n^2)
+    - Best: Ω(n) -> With optimized implementation
+    - Average: Θ(n^2)
     - Worst: O(n^2)
 - Space complexity: O(1)
 - In-place
@@ -14,3 +14,8 @@
 
 ## Demonstration
 - [Algorithm Visualizer](https://algorithm-visualizer.org/brute-force/bubble-sort)
+
+
+
+## References
+- [Other algoritmos & Data Structures](https://github.com/NelsonBN/algorithms-data-structures)
